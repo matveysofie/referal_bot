@@ -1,3 +1,5 @@
+![Header](https://github.com/matveysofie/referal_bot/blob/main/assets/HEADER.jpg)
+<h1 align="center"> 👋 </h1>
 <p align="center"> 
     <samp>🤖 Referral Telegram bot. The bot is a referral system</samp>
 </p>
